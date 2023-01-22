@@ -11,3 +11,4 @@ A place to learn more about django, and try things.
 ## Resources
 
 - [ ] [Django Tutorial (Create a Blog); The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
+- [ ] [Django Tutorial; w3schools](https://www.w3schools.com/django/)
